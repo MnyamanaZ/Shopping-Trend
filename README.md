@@ -18,10 +18,16 @@ It focuses on three main areas:
 - Canva – for building a business-style presentation
 - GitHub – for structuring, storing, and documenting the entire project
 
-  ## Key Insights
+  ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
 - Mature Adults (25–35): Most loyal and high-spending.
 - Clothing: Top revenue driver year-round.
 - Fall: Most profitable season.
 - Males dominate revenue (68%), but females are an untapped growth segment.
 - May dip in ratings: Which points customer dissatisfaction risk.
+
+## 📘 Conclusion
+This project provides a structured view of shopping trends, enabling data-driven decisions to improve customer engagement and sales performance.
+
+📩 **Thank you for reviewing my work!**  
+
