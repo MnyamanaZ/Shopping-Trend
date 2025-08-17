@@ -1,1 +1,19 @@
-# Shopping-Trend
+# Shopping-Trend-Analysis
+**This repository is a complete case study submission for my data analytics learning journey, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation.**
+
+## 🎯 Project Objectives
+
+The purpose of this dashboard is to analyze customer shopping preferences and behavior in order to identify trends that drive revenue and customer loyalty
+It focuses on three main areas:
+-Customer Count and Aquisition Behavior
+-Previous Purchase Pattern and Loyalty and
+-Revenue and Customer Demographics
+
+## 🛠️ Tools Used
+
+- Excel – for raw data cleaning
+- Power BI and Google Looker for visualizations
+- Snowflake SQL – for querying and analysis
+- Miro – for outlining the project planning
+- Canva – for building a business-style presentation
+- GitHub – for structuring, storing, and documenting the entire project
