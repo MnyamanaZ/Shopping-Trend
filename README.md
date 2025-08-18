@@ -19,9 +19,9 @@ It focuses on three main areas:
 - GitHub – for structuring, storing, and documenting the entire project
 
 ## 📂 Structure  
-- [data/](data) → datasets (original + processed)  
-- [sql/](sql) → SQL queries  
-- [docs/](docs) → reports and dashboard  
+- [data/](data) → Datasets (original + processed)  
+- [sql/](sql) → SQL query 
+- [docs/](docs) → Miro Plan and Dashboard  
 
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
