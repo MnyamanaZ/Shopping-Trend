@@ -19,9 +19,10 @@ It focuses on three main areas:
 - GitHub – for structuring, storing, and documenting the entire project
 
 ## 📂 Structure  
-- [data/](data) → Datasets (original + processed)  
-- [sql/](sql) → SQL query 
-- [docs/](docs) → Miro Plan and Dashboard  
+- [Data/](data) → Processed & original datasets  
+- [SNOWFLAKE CODE/](snowflake/code) → SQL queries used for analysis   
+- [Documents/](docs/documents) → Methodology files + Miro planning
+- [Presentation/](docs/presentation) → Power BI & Looker dashboards  
 
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
