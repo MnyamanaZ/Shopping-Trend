@@ -22,7 +22,11 @@ It focuses on three main areas:
 - [Data/](data) → Processed & original datasets  
 - [Snowflake code/](snowflake/code) → SQL queries used for analysis   
 - [Documents/](docs/documents) → Methodology files + Miro planning
-- [Presentation/](docs/presentation) → Power BI & Looker dashboards  
+- [Presentation/](docs/presentation) → Power BI & Looker dashboards
+
+- ## 📊 Dashboards
+- [Power BI Dashboard](https://app.powerbi.com/view?r=XXXXXXXXXXXX)  
+- [Looker Dashboard](https://your-looker-instance.com/dashboards/123)
 
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
