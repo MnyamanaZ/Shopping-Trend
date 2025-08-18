@@ -20,7 +20,7 @@ It focuses on three main areas:
 
 ## 📂 Structure  
 - [Data/](data) → Processed & original datasets  
-- [SNOWFLAKE CODE/](snowflake/code) → SQL queries used for analysis   
+- [snowflake code/](snowflake/code) → SQL queries used for analysis   
 - [Documents/](docs/documents) → Methodology files + Miro planning
 - [Presentation/](docs/presentation) → Power BI & Looker dashboards  
 
