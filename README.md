@@ -18,6 +18,12 @@ It focuses on three main areas:
 - Canva – for building a business-style presentation
 - GitHub – for structuring, storing, and documenting the entire project
 
+## 📂 Repository Structure  
+- `data/` → datasets (original + processed)  
+- `sql/` → SQL queries used for analysis  
+- `docs/` → dashboard (PDF), planning (Miro)  
+- `README.md` → summary and insights 
+
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
 - Mature Adults (25–35): Most loyal and high-spending.
