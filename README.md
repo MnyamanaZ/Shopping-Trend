@@ -26,7 +26,7 @@ It focuses on three main areas:
 
 - ## 📊 Dashboards
 - [Power BI Dashboard](https://app.powerbi.com/view?r=XXXXXXXXXXXX)  
-- [Looker Dashboard]([https://your-looker-instance.com/dashboards/123](https://lookerstudio.google.com/s/pBIqdpmqfGs))
+- [Looker Dashboard](https://lookerstudio.google.com/s/pBIqdpmqfGs))
 
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
