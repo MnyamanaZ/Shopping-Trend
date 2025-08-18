@@ -24,7 +24,7 @@ It focuses on three main areas:
 - [Documents/](docs/documents) → Methodology files + Miro planning
 - [Presentation/](docs/presentation) → Power BI & Looker dashboards
 
-- ## 📊 Dashboards
+- ## 📊 Interactive Dashboards
 - [Power BI Dashboard](https://app.powerbi.com/view?r=XXXXXXXXXXXX)  
 - [Looker Dashboard](https://lookerstudio.google.com/s/pBIqdpmqfGs)
 
