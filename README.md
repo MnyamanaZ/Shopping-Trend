@@ -18,11 +18,10 @@ It focuses on three main areas:
 - Canva – for building a business-style presentation
 - GitHub – for structuring, storing, and documenting the entire project
 
-## 📂 Repository Structure  
-- `data/` → datasets (original + processed)  
-- `sql/` → SQL queries used for analysis  
-- `docs/` → dashboard (PDF), planning (Miro)  
-- `README.md` → summary and insights 
+## 📂 Structure  
+- [data/](data) → datasets (original + processed)  
+- [sql/](sql) → SQL queries  
+- [docs/](docs) → reports and dashboard  
 
   ## 📊 Key Insights
 - Weekdays:70% revenue, Weekends underperform.
